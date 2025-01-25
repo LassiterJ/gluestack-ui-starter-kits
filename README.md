@@ -10,7 +10,7 @@ Welcome to the gluestack-ui Starter Kit! This project is designed to help you ki
 
 ```bash
 git clone https://github.com/gluestack/gluestack-ui-starter-kits.git
-cd gluestack-ui-starter-kits
+cd gluestack-starter
 ```
 
 2. Install dependencies:
