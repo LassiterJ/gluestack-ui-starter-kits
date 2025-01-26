@@ -4,6 +4,9 @@
 node_modules
 .pnp
 .pnp.js
+.pnpm-store/
+
+
 
 # testing
 coverage
@@ -16,16 +19,20 @@ build
 
 # expo
 .expo
+.expo-shared/
 
 # misc
 .DS_Store
 *.pem
 dist
+.gluestack-expo-starter
+
 
 # debug
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+pnpm-debug.log*
 
 # local env files
 .env.local
@@ -35,3 +42,5 @@ yarn-error.log*
 
 # turbo
 .turbo
+
+

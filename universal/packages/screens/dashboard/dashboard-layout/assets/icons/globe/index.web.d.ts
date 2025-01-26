@@ -1,1 +1,2 @@
-export declare const GlobeIcon: any;
+/// <reference types="react" />
+export declare const GlobeIcon: () => import("react").JSX.Element;

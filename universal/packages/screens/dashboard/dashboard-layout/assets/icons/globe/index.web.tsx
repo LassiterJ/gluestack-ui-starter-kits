@@ -1,4 +1,7 @@
-export const GlobeIcon: any = () => {
+
+
+
+export const GlobeIcon = () => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"

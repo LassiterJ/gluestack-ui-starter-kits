@@ -1,1 +1,2 @@
-export declare const SplashScreen: () => import("react/jsx-runtime").JSX.Element;
+/// <reference types="react" />
+export declare const SplashScreen: () => import("react").JSX.Element;

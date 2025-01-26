@@ -1,1 +1,2 @@
-export declare const NewsAndFeed: () => import("react/jsx-runtime").JSX.Element;
+/// <reference types="react" />
+export declare const NewsAndFeed: () => import("react").JSX.Element;

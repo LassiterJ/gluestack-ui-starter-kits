@@ -1,1 +1,2 @@
-export declare const Profile: () => import("react/jsx-runtime").JSX.Element;
+import React from "react";
+export declare const Profile: () => React.JSX.Element;

@@ -1,4 +1,4 @@
 export declare const config: {
-    light: Record<string, string>;
-    dark: Record<string, string>;
+    light: any;
+    dark: any;
 };

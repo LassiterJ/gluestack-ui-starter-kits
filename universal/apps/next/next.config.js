@@ -5,9 +5,11 @@ module.exports = {
   reactStrictMode: true,
   transpilePackages: [
     "@gluestack-ui/nativewind-utils",
+    '@gluestack-ui/button',
     "nativewind",
     "react-native-css-interop",
   ],
+  
   webpack: (config) => {
     config.resolve.alias = {
       ...(config.resolve.alias || {}),
